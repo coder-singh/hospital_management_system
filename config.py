@@ -1,8 +1,8 @@
 mysql = {
-    'host': 'host.docker.internal',
+    'host': 'db',
     'user': 'root',
-    'passwd': '',
-    'db': 'hms'
+    'passwd': 'root',
+    'db': 'admin'
 }
 
 mysql_test = {
