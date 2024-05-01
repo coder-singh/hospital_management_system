@@ -6,7 +6,7 @@ mysql = {
 }
 
 mysql_test = {
-    'host': '0.0.0.0',
+    'host': 'localhost',
     'user': 'root',
     'passwd': '',
     'db': 'hms_test'
